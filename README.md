@@ -20,4 +20,4 @@ On Mac: Control-click the index.html file, then select "Open with" > choose your
    git clone https://github.com/Mrunali0224/-Front-End-Development-Assignment.git
 
  ### Live Demo
-Check out the live demo here: [Front-End Development Assignment Live Demo](https://Mrunali0224.github.io/-Front-End-Development-Assignment/)
+Check out the live demo here: [Front-End Development Assignment Live Demo](https://Mrunali0224.github.io/-Front-End-Development-Assignment/index.html)
