@@ -18,3 +18,5 @@ On Mac: Control-click the index.html file, then select "Open with" > choose your
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mrunali0224/-Front-End-Development-Assignment.git
+
+ ### Live Demo
